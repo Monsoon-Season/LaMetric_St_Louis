@@ -1,0 +1,5 @@
+"scripts": {
+  "start": "yarn run build && node dist/index.js",
+  "build": "npx tsc",
+  "start:dev": "ts-node-dev index.ts"
+}
