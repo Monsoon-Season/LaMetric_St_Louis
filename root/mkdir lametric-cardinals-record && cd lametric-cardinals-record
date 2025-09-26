@@ -1,0 +1,2 @@
+yarn add express axios
+yarn add -D typescript @types/express @types/node ts-node ts-node-dev
